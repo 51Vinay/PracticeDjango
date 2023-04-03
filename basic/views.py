@@ -2,6 +2,6 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def home(request):
-    return HttpResponse("Djeango repo work succesfully")
+    return HttpResponse("Django repo work succesfully")
 
 # Create your views here.
